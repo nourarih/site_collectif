@@ -1,0 +1,12 @@
+.contact {
+    text-align: center;
+    padding: 40px;
+    font-size: 18px;
+    line-height: 1.6;
+  }
+
+  .contact-page {
+    background-color: #bb8b5e; 
+    min-height: 100vh;
+    padding: 40px;
+  }
